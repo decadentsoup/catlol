@@ -1,0 +1,5 @@
+# catlol: like lolcat but written in C
+
+https://github.com/busyloop/lolcat[lolcat] is a nice script for colorizing terminal output.
+This is a simplified rewrite in C that performs a little better on some of my more minimalist computers.
+It does not currently implement all the functionality of the original lolcat.
